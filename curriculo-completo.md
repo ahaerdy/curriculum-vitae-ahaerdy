@@ -212,3 +212,7 @@ Cursos introdutórios sobre conceitos de IA, modelos generativos e aplicações 
 **Inglês**
 - Leitura técnica fluente de documentação e artigos científicos.
 - Capacidade de redigir relatórios técnicos e documentação em inglês.
+
+---
+📅 Última atualização: Janeiro/2026.
+---
