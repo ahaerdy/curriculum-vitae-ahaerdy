@@ -214,5 +214,5 @@ Cursos introdutórios sobre conceitos de IA, modelos generativos e aplicações 
 - Capacidade de redigir relatórios técnicos e documentação em inglês.
 
 ---
-📅 Última atualização: Janeiro/2026.
+### 📅 Última atualização: Janeiro/2026.
 ---
