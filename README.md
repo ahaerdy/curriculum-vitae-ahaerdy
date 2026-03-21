@@ -10,4 +10,4 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 - Versão ATS - Dados
 
 
-Última atualização: Janeiro 2026.
+Última atualização: março de 2026.
