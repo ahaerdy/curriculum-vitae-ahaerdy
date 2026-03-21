@@ -152,12 +152,12 @@ Curso prático em trilhas organizadas por módulos
 Período de atualização técnica intensiva e estruturada, com foco em desenvolvimento backend, engenharia de dados e ferramentas do ecossistema corporativo atual.
 
 #### Bootcamp TQI Fullstack Developer
-DIO em parceria com TQI (concluído: 03/2026)
+DIO em parceria com TQI (concluído: mar/2026)
 
 **Java** com POO completa, coleções, estruturas de dados, JDBC/JPA/Hibernate e testes unitários com **JUnit**. **Spring Boot** com APIs REST, **Spring Security**, **Spring Data JPA** e Design Patterns dos clássicos GoF ao Spring Framework. **JavaScript ES6+** com POO, programação assíncrona e manipulação de DOM. **ReactJS** com hooks, states, effects e frontend totalmente componentizado. **SQL**/**MySQL** com joins e modelagem relacional. Fundamentos de **QA**, metodologias ágeis e ciclo de desenvolvimento de software. Projetos práticos documentados no GitHub.
 
 #### Bootcamp Suzano Python Developer
-DIO em parceria com Suzano (concluído: 10/2025)
+DIO em parceria com Suzano (concluído: out/2025)
 
 **Python 3+** com POO completa (herança, encapsulamento, polimorfismo, classes abstratas), estruturas de dados, versionamento com Git/GitHub, **Microsoft Copilot Studio** (criação de agentes conversacionais e fluxos personalizados), **Azure AI** (Language Studio, análise de sentimentos, PLN, Azure OpenAI), fundamentos de IA Generativa e Aprendizado de Máquina. Projetos práticos — sistema bancário em POO, pacote de processamento de imagens publicado no **PyPI**, agentes conversacionais no Copilot Studio. Contribuição aceita em repositório open source na plataforma GitHub.
 
