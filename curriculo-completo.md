@@ -1,6 +1,6 @@
 # Arthur Haerdy Jr.
 
-**Engenheiro Eletrônico | Data & Analytics (Python/Power BI) | Full-Stack (Java/Spring/React/JS) | IA & Cloud | Linux SysAdmin**
+**Engenheiro Eletrônico | Dados & Análise (Python/Power BI) | Full-Stack (Java/Spring/React/JS) | IA & Cloud | Linux SysAdmin**
 
 Marília (SP) · (14) 99106-8394 · arthur.haerdy@gmail.com  
 [linkedin.com/in/arthur-haerdy-jr](https://linkedin.com/in/arthur-haerdy-jr) · [github.com/ahaerdy](https://github.com/ahaerdy)
@@ -9,13 +9,13 @@ Marília (SP) · (14) 99106-8394 · arthur.haerdy@gmail.com
 
 ## Objetivo
 
-Posição em desenvolvimento de software, engenharia de sistemas ou dados em empresa de tecnologia — com foco em entrega técnica e integração a equipe em ambiente profissional estruturado.
+Posição em desenvolvimento de software, engenharia de sistemas ou dados em empresa de tecnologia — com foco em entrega técnica e integração à equipe em ambiente profissional estruturado.
 
 ---
 
 ## Resumo
 
-Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência - Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sr) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2022, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com ampla base de usuários, atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados - projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica.
+Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência — Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sênior) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2022, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com ampla base de usuários, atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados — projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica.
 
 ---
 
@@ -36,7 +36,7 @@ Principais responsabilidades:
 
 ---
 
-### Analista de Informações Senior (ago/2000 – jun/2002)
+### Analista de Informações Sênior (ago/2000 – jun/2002)
 **Intelig Telecomunicações Ltda – RJ**  
 Setor de Vendas Corporativas
 
@@ -52,7 +52,7 @@ Principais responsabilidades:
 ---
 
 ### Adm. de Sistemas e Infraestrutura de Redes (jan/2005 – nov/2008)
-**Lab. de Processamento de Sinais (LPS) - COPPE/UFRJ**  
+**Lab. de Processamento de Sinais (LPS) – COPPE/UFRJ**
 (LPS-I e LPS-II)
 
 Atuação na equipe de implantação da infraestrutura de rede e servidores dos laboratórios LPS-I e LPS-II, da COPPE/UFRJ.
@@ -97,14 +97,14 @@ Principais atividades:
 
 ## Formação Acadêmica
 
-### Curso de Engenharia Elétrico-Eletrônica — UFRJ (set/1998)
+### Curso de Engenharia Eletrônica — UFRJ (set/1998)
 Engenheiro Eletrônico — Universidade Federal do Rio de Janeiro
 
 ### Mestrado em Processamento de Sinais
 **COPPE/UFRJ — Universidade Federal do Rio de Janeiro**  
 Dois semestres cursados em 1998, encerrados por oportunidade profissional na Volkswagen do Brasil.
 
-- Aprofundamento acadêmico sob orientação do Prof. Luiz Wagner Pereira Biscainho (D.Sc) em Filtragem Digital e Restauração de Sinais de Áudio utilizando Sistemas Adaptativos com ênfase em cancelamento ativo de ruído, pesquisa que fundamentou o Projeto Final de Graduação e motivou minha contratação para integrar a equipe de desenvolvimento do caminhão eletrônico VW 17.250-E, da Volkswagen do Brasil.
+- Aprofundamento acadêmico sob orientação do Prof. Luiz Wagner Pereira Biscainho (D.Sc) em Filtragem Digital e Restauração de Sinais de Áudio utilizando Sistemas Adaptativos com ênfase em cancelamento ativo de ruído, pesquisa que fundamentou o Projeto Final de Graduação e motivou a contratação para integrar a equipe de desenvolvimento do caminhão eletrônico VW 17.250-E, da Volkswagen do Brasil.
 - Participação em projeto de pesquisa em parceria com o CERN (Organização Europeia para Pesquisa Nuclear), voltado à detecção de partículas no colisor de partículas LHC, utilizando modelos de Redes Neurais artificiais:
   - Programação em linguagem C sobre o computador paralelo Telmat T.Node, com arquitetura distribuída baseada em transputers INMOS T800 — equipamento de alto desempenho cedido pela empresa francesa Telmat Informatique;
   - Implementação de algoritmos de reconhecimento de padrões para filtragem online em placas de detecção, contribuindo para a otimização do fluxo de dados em experimentos de física de altas energias (ATLAS).
@@ -147,21 +147,21 @@ Curso prático em trilhas organizadas por módulos
 
 ---
 
-### Capacitação Técnica Recente
+## Capacitação Técnica Recente
 
 Período de atualização técnica intensiva e estruturada, com foco em desenvolvimento backend, engenharia de dados e ferramentas do ecossistema corporativo atual.
 
-#### Bootcamp TQI Fullstack Developer
+### Bootcamp TQI Fullstack Developer
 DIO em parceria com TQI (concluído: mar/2026)
 
 **Java** com POO completa, coleções, estruturas de dados, JDBC/JPA/Hibernate e testes unitários com **JUnit**. **Spring Boot** com APIs REST, **Spring Security**, **Spring Data JPA** e Design Patterns dos clássicos GoF ao Spring Framework. **JavaScript ES6+** com POO, programação assíncrona e manipulação de DOM. **ReactJS** com hooks, states, effects e frontend totalmente componentizado. **SQL**/**MySQL** com joins e modelagem relacional. Fundamentos de **QA**, metodologias ágeis e ciclo de desenvolvimento de software. Projetos práticos documentados no GitHub.
 
-#### Bootcamp Suzano Python Developer
+### Bootcamp Suzano Python Developer
 DIO em parceria com Suzano (concluído: out/2025)
 
 **Python 3+** com POO completa (herança, encapsulamento, polimorfismo, classes abstratas), estruturas de dados, versionamento com Git/GitHub, **Microsoft Copilot Studio** (criação de agentes conversacionais e fluxos personalizados), **Azure AI** (Language Studio, análise de sentimentos, PLN, Azure OpenAI), fundamentos de IA Generativa e Aprendizado de Máquina. Projetos práticos — sistema bancário em POO, pacote de processamento de imagens publicado no **PyPI**, agentes conversacionais no Copilot Studio. Contribuição aceita em repositório open source na plataforma GitHub.
 
-#### Bootcamp NTT DATA Engenharia de Dados com Python
+### Bootcamp NTT DATA Engenharia de Dados com Python
 DIO em parceria com NTT DATA (conclusão: abr/2026)
 
 **Python** para engenharia de dados, **SQL** e análise de dados, fundamentos de **ETL** (coleta, limpeza e transformação), Power BI com pipeline completo — fundamentos de BI, KPIs e métricas, dashboards interativos, relatórios gerenciais, integração com **MySQL** e Azure. Projetos práticos publicados no GitHub — dashboard de análise de vendas e lucratividade global com mapas geoespaciais, relatório gerencial com foco em UI/BI integrados, dashboard corporativo com integração MySQL e Azure. Python aplicado a filtragem, extração e visualização de dados via **Power BI**.
