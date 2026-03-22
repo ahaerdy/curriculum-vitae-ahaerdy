@@ -1,6 +1,6 @@
 # Arthur Haerdy Jr.
 
-**Eng Eletrônico | Desenvolvedor FullStack (Java/Spring Boot/Python/ReactJS) | Linux SysAdmin**
+**Engenheiro Eletrônico | Data & Analytics (Python/Power BI) | Full-Stack (Java/Spring/React/JS) | IA & Cloud | Linux SysAdmin**
 
 Marília (SP) · (14) 99106-8394 · arthur.haerdy@gmail.com  
 [linkedin.com/in/arthur-haerdy-jr](https://linkedin.com/in/arthur-haerdy-jr) · [github.com/ahaerdy](https://github.com/ahaerdy)
