@@ -15,13 +15,13 @@ Posição em desenvolvimento de software, engenharia de sistemas ou dados em emp
 
 ## Resumo
 
-Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência — Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sênior) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2022, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com ampla base de usuários, atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados — projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica.
+Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência — Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sênior) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2022, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com suporte a uma base ativa de mais de 400 utilizadores, atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados — projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica.
 
 ---
 
 ## Histórico Profissional
 
-### Engenheiro de Projetos (set/1998 – out/2000)
+### Engenheiro de Projetos (09/1998 – 10/2000)
 **Volkswagen do Brasil Ltda – Resende (RJ)**  
 Operações Caminhões e Ônibus - Setor de Eng. do Produto
 
@@ -36,7 +36,7 @@ Principais responsabilidades:
 
 ---
 
-### Analista de Informações Sênior (ago/2000 – jun/2002)
+### Analista de Informações Sênior (10/2000 – 06/2002)
 **Intelig Telecomunicações Ltda – RJ**  
 Setor de Vendas Corporativas
 
@@ -51,7 +51,7 @@ Principais responsabilidades:
 
 ---
 
-### Adm. de Sistemas e Infraestrutura de Redes (jan/2005 – nov/2008)
+### Adm. de Sistemas e Infraestrutura de Redes (01/2005 – 11/2008)
 **Lab. de Processamento de Sinais (LPS) – COPPE/UFRJ**
 (LPS-I e LPS-II)
 
@@ -68,7 +68,7 @@ Principais responsabilidades:
 
 ---
 
-### Desenvolvedor e Administrador de Sistemas (jan/2009 – jan/2023)
+### Engenheiro de Software Full-Stack e SysAdmin (01/2009 – 01/2023)
 **Sistema Web Institucional — Plataforma EAD Proprietária**
 
 Principais atividades:
@@ -81,7 +81,7 @@ Principais atividades:
 - Desenvolvimento e manutenção contínua da aplicação em PHP/HTML:
   - Estruturação e evolução da aplicação web em PHP com HTML/CSS, com lógica de navegação personalizada e módulos independentes;
   - Modelagem e desenvolvimento de banco de dados MySQL para armazenar conteúdo textual estruturado (artigos, páginas de livros, metadados, links e anexos);
-  - Desenvolvimento de módulo de gestão de doações com integração via API a gateways de pagamento (PayPal e PagSeguro), com registro de transações em banco de dados e controle interno de histórico por usuário.
+  - Integração de APIs de pagamento (PayPal e PagSeguro), processando com sucesso mais de 400 transações mensais.
 
 - Gerenciamento de conteúdo, usuários e segurança do ambiente:
   - Organização do conteúdo por tema, grau discipular e nível de profundidade, com curadoria textual e padronização editorial;
@@ -97,7 +97,7 @@ Principais atividades:
 
 ## Formação Acadêmica
 
-### Curso de Engenharia Eletrônica — UFRJ (set/1998)
+### Curso de Engenharia Eletrônica — UFRJ (09/1998)
 Engenheiro Eletrônico — Universidade Federal do Rio de Janeiro
 
 ### Mestrado em Processamento de Sinais
@@ -113,7 +113,7 @@ Dois semestres cursados em 1998, encerrados por oportunidade profissional na Vol
 
 ## Cursos
 
-### Curso de Formação em Servidores Linux (ago/2018)
+### Curso de Formação em Servidores Linux (10/2018)
 Formação de Servidores Linux / Engenharia Linux (EAD) — Certificações NETbr
 
 - Administração de sistemas Linux (Debian e CentOS);
@@ -132,7 +132,7 @@ Formação de Servidores Linux / Engenharia Linux (EAD) — Certificações NETb
 - Automatização de serviços e regras com scripts de inicialização (rc.local, init.d);
 - Configuração de segurança de rede e roteamento com ipforward, iptables (regras persistentes) e tratamento de dados estruturados.
 
-### Desenvolvimento Web com PHP e HTML (jun/2019)
+### Desenvolvimento Web com PHP e HTML (06/2019)
 Plataforma Treehouse – treehouse.com (EAD)  
 Curso prático em trilhas organizadas por módulos
 
@@ -152,17 +152,17 @@ Curso prático em trilhas organizadas por módulos
 Período de atualização técnica intensiva e estruturada, com foco em desenvolvimento backend, engenharia de dados e ferramentas do ecossistema corporativo atual.
 
 ### Bootcamp TQI Fullstack Developer
-DIO em parceria com TQI (concluído: mar/2026)
+DIO em parceria com TQI (concluído: 03/2026)
 
 **Java** com POO completa, coleções, estruturas de dados, JDBC/JPA/Hibernate e testes unitários com **JUnit**. **Spring Boot** com APIs REST, **Spring Security**, **Spring Data JPA** e Design Patterns dos clássicos GoF ao Spring Framework. **JavaScript ES6+** com POO, programação assíncrona e manipulação de DOM. **ReactJS** com hooks, states, effects e frontend totalmente componentizado. **SQL**/**MySQL** com joins e modelagem relacional. Fundamentos de **QA**, metodologias ágeis e ciclo de desenvolvimento de software. Projetos práticos documentados no GitHub.
 
 ### Bootcamp Suzano Python Developer
-DIO em parceria com Suzano (concluído: out/2025)
+DIO em parceria com Suzano (concluído: 10/2025)
 
 **Python 3+** com POO completa (herança, encapsulamento, polimorfismo, classes abstratas), estruturas de dados, versionamento com Git/GitHub, **Microsoft Copilot Studio** (criação de agentes conversacionais e fluxos personalizados), **Azure AI** (Language Studio, análise de sentimentos, PLN, Azure OpenAI), fundamentos de IA Generativa e Aprendizado de Máquina. Projetos práticos — sistema bancário em POO, pacote de processamento de imagens publicado no **PyPI**, agentes conversacionais no Copilot Studio. Contribuição aceita em repositório open source na plataforma GitHub.
 
 ### Bootcamp NTT DATA Engenharia de Dados com Python
-DIO em parceria com NTT DATA (conclusão: abr/2026)
+DIO em parceria com NTT DATA (concluído: 04/2026)
 
 **Python** para engenharia de dados, **SQL** e análise de dados, fundamentos de **ETL** (coleta, limpeza e transformação), Power BI com pipeline completo — fundamentos de BI, KPIs e métricas, dashboards interativos, relatórios gerenciais, integração com **MySQL** e Azure. Projetos práticos publicados no GitHub — dashboard de análise de vendas e lucratividade global com mapas geoespaciais, relatório gerencial com foco em UI/BI integrados, dashboard corporativo com integração MySQL e Azure. Python aplicado a filtragem, extração e visualização de dados via **Power BI**.
 

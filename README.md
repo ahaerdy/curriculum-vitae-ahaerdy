@@ -4,10 +4,11 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 
 ## Versões disponíveis:
 
-- [Currículo Completo (formato Markdown / mar-2026)](curriculo-completo.md)
-- [Currículo Completo (formato PDF / mar-2026)](pdf/Curriculo_Arthur_Tipo_01_Versao_2.64-mar-2026.pdf)
+- [Currículo Completo (formato Markdown / maio-2026)](markdown/curriculo_arthur_em_markdown_versao_2.65.md)
+- [Currículo Completo (formato PDF / maio-2026)](/networking/Curriculo_Arthur_Tipo_01_Versao_2.64-mar-2026.pdf)
+- [Currículo Completo (formato ATS-docx / maio-2026)](ats/Arthur_Haerdy_curriculo_ATS_v2.65.docx)
 - Versão ATS - Tecnologia
 - Versão ATS - Dados
 
 
-Última atualização: março de 2026.
+Última atualização: maio de 2026.
