@@ -10,7 +10,7 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 | **ATS-Friendly** | **(Recomendado para Portais de Vagas)** Versão otimizada para sistemas de triagem automática. | [Download ATS.docx](/ats/Arthur_Haerdy_curriculo_ATS_v2.65.docx) |
 
 ### Visualização Rápida
-* [Versão em Markdown (Visualização direta no GitHub)](markdown/curriculo_arthur_em_markdown_versao_2.65.md)
+* [Versão em Markdown (Visualização direta no GitHub)](makrdown/curriculo_arthur_em_markdown_versao_2.65.md)
 
 ---
 *Última atualização: Maio de 2026.*
