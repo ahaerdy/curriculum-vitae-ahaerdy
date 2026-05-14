@@ -5,8 +5,8 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 ### Formatos para Download
 | Formato | Descrição | Link |
 | :--- | :--- | :--- |
-| **PDF** | Versão completa com design otimizado para leitura humana. | [Download PDF](/networking/Curriculo_Arthur_Tipo_01_Versao_2.65-AZUL.pdf) |
-| **DOCX** | Versão editável padrão. | [Download Word](/networking/Curriculo_Arthur_Tipo_01_Versao_2.65-AZUL.docx) |
+| **PDF** | Versão completa com design otimizado para leitura humana. | [Download PDF](/networking/Curriculo_Arthur_Tipo_01_Versao_2.66-AZUL.pdf) |
+| **DOCX** | Versão editável padrão. | [Download Word](/networking/Curriculo_Arthur_Tipo_01_Versao_2.66-AZUL.docx) |
 | **ATS-Friendly** | **(Recomendado para Portais de Vagas)** Versão otimizada para sistemas de triagem automática. | [Download ATS.docx](/ats/Arthur_Haerdy_curriculo_ATS_v2.65.docx) |
 
 ### Visualização Rápida
