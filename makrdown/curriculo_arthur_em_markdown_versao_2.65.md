@@ -15,7 +15,7 @@ Posição em desenvolvimento de software, engenharia de sistemas ou dados em emp
 
 ## Resumo
 
-Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência — Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sênior) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2022, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com suporte a uma base ativa de mais de 400 utilizadores, atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados — projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica.
+Engenheiro Eletrônico (UFRJ) com carreira técnica construída em ambientes de alta exigência – Volkswagen (sistemas embarcados), Intelig Telecom (Analista de Informações Sênior) e COPPE/UFRJ (Lab. de Processamento de Sinais, infraestrutura Linux e redes). Entre 2009 e 2023, desenvolveu e administrou integralmente plataforma EAD proprietária em PHP/MySQL/Linux com suporte a uma base ativa de mais de 400 usuários  ativos atuando simultaneamente como desenvolvedor, DBA e SysAdmin. A partir de 2023, atualização técnica intensiva com foco em Java/Spring Boot, Python e Engenharia de Dados – projetos práticos no GitHub. Inglês avançado para leitura e redação de documentação técnica
 
 ---
 
@@ -150,6 +150,17 @@ Curso prático em trilhas organizadas por módulos
 ## Capacitação Técnica Recente
 
 Período de atualização técnica intensiva e estruturada, com foco em desenvolvimento backend, engenharia de dados e ferramentas do ecossistema corporativo atual.
+
+### Bootcamp NTT DATA: Backend Java com Spring AI
+DIO em parceria com NTT Data (conclusão: 06/2026)
+
+Java com POO completa, coleções, interfaces, lambdas e streams, boas práticas com Clean Code, anotações e geração de código inteligente. Spring Boot com APIs REST completas, Spring Data JPA (banco de dados relacional), Spring Security (JWT, OAuth2) e integração com APIs externas via Spring Cloud OpenFeign. Inteligência Artificial aplicada ao desenvolvimento: Machine Learning, LLMs, IA Generativa e Agentes com GitHub Copilot. Spring AI para construção de aplicações back-end com IA Generativa. Publicação, operação e monitoramento de aplicações no Microsoft Azure. Design Patterns (clássicos GoF) aplicados com Spring Framework. Projetos práticos documentados no GitHub.
+
+### Bootcamp Globant: Java & Spring Boot AI Developer
+DIO em parceria com Globant (conclusão: 06/2026)
+
+Java com fundamentos do desenvolvimento back-end, controle de versão com Git e GitHub, estruturas de dados e orientação a objetos com POO completa. Spring Boot com APIs REST, Spring Security, Spring Data JPA e Design Patterns (SOLID e GoF) aplicados ao Spring Framework. Inteligência Artificial integrada ao desen-volvimento: Machine Learning, LLMs, IA Generativa e Agentes com GitHub Copilot para produtividade. Spring AI para construção de aplicações inteligentes com IA Generativa. Testes unitários com JUnit 5. Projetos práticos com foco em Clean Code e boas práticas de qualidade de software, documentados no GitHub.
+
 
 ### Bootcamp TQI Fullstack Developer
 DIO em parceria com TQI (concluído: 03/2026)
