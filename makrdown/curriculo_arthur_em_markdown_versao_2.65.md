@@ -154,7 +154,7 @@ Período de atualização técnica intensiva e estruturada, com foco em desenvol
 ### Bootcamp NTT DATA: Backend Java com Spring AI
 DIO em parceria com NTT Data (conclusão: 06/2026)
 
-&& com POO completa, coleções, interfaces, lambdas e streams, boas práticas com Clean Code, anotações e geração de código inteligente. Spring Boot com APIs REST completas, **Spring Data JPA** (banco de dados relacional), Spring Security (JWT, OAuth2) e integração com APIs externas via **Spring Cloud OpenFeign**. **Inteligência Artificial** aplicada ao desenvolvimento: Machine Learning, LLMs, IA Generativa e Agentes com GitHub Copilot. **Spring AI** para construção de aplicações back-end com IA Generativa. Publicação, operação e monitoramento de aplicações no **Microsoft Azure**. Design Patterns (clássicos GoF) aplicados com Spring Framework. Projetos práticos documentados no GitHub.
+**Java** com POO completa, coleções, interfaces, lambdas e streams, boas práticas com Clean Code, anotações e geração de código inteligente. Spring Boot com APIs REST completas, **Spring Data JPA** (banco de dados relacional), Spring Security (JWT, OAuth2) e integração com APIs externas via **Spring Cloud OpenFeign**. **Inteligência Artificial** aplicada ao desenvolvimento: Machine Learning, LLMs, IA Generativa e Agentes com GitHub Copilot. **Spring AI** para construção de aplicações back-end com IA Generativa. Publicação, operação e monitoramento de aplicações no **Microsoft Azure**. Design Patterns (clássicos GoF) aplicados com Spring Framework. Projetos práticos documentados no GitHub.
 
 ### Bootcamp Globant: Java & Spring Boot AI Developer
 DIO em parceria com Globant (conclusão: 06/2026)
