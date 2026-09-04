@@ -5,11 +5,11 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 ### Formatos para Download
 | Formato | Descrição | Link |
 | :--- | :--- | :--- |
-| **PDF** | Versão completa com design otimizado para leitura humana. | [Download PDF](/networking/Curriculo_Arthur_Tipo_01_Versao_2.67-AZUL.pdf) |
-| **ATS-Friendly** | **(Recomendado para Portais de Vagas)** Versão otimizada para sistemas de triagem automática. | [Download ATS.PDF](/ats/Arthur_Haerdy_curriculo_ATS_v3.pdf) |
+| **PDF** | Versão completa com design otimizado para leitura humana. | [Download PDF](/networking/Curriculo.Arthur.Tipo.01.Versao.2.70-AZUL.pdf) |
+| **ATS-Friendly** | **(Recomendado para Portais de Vagas)** Versão otimizada para sistemas de triagem automática. | [Download ATS.PDF](/ats/) |
 
 ### Visualização Rápida
-* [Versão em Markdown (Visualização direta no GitHub)](makrdown/curriculo_arthur_em_markdown_versao_2.65.md)
+* [Versão em Markdown (Visualização direta no GitHub)](makrdown/curriculo.arthur.em.markdown.versao.2.70.md)
 
 ---
 *Última atualização: Maio de 2026.*
